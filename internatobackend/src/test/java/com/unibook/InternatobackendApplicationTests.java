@@ -1,4 +1,4 @@
-package com.example.internatobackend;
+package com.unibook;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
